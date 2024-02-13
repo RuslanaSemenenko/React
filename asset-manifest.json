@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/RuslanaSemenenko/React-Feedback.git/static/css/main.92a990ca.css",
+    "main.js": "/RuslanaSemenenko/React-Feedback.git/static/js/main.8bdf5892.js",
+    "index.html": "/RuslanaSemenenko/React-Feedback.git/index.html",
+    "main.92a990ca.css.map": "/RuslanaSemenenko/React-Feedback.git/static/css/main.92a990ca.css.map",
+    "main.8bdf5892.js.map": "/RuslanaSemenenko/React-Feedback.git/static/js/main.8bdf5892.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92a990ca.css",
+    "static/js/main.8bdf5892.js"
+  ]
+}
