@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/RuslanaSemenenko/React-Feedback.git/static/css/main.92a990ca.css",
-    "main.js": "/RuslanaSemenenko/React-Feedback.git/static/js/main.6c6f6d04.js",
-    "index.html": "/RuslanaSemenenko/React-Feedback.git/index.html",
-    "main.92a990ca.css.map": "/RuslanaSemenenko/React-Feedback.git/static/css/main.92a990ca.css.map",
-    "main.6c6f6d04.js.map": "/RuslanaSemenenko/React-Feedback.git/static/js/main.6c6f6d04.js.map"
+    "main.css": "/React-Feedback/static/css/main.92a990ca.css",
+    "main.js": "/React-Feedback/static/js/main.6c6f6d04.js",
+    "index.html": "/React-Feedback/index.html",
+    "main.92a990ca.css.map": "/React-Feedback/static/css/main.92a990ca.css.map",
+    "main.6c6f6d04.js.map": "/React-Feedback/static/js/main.6c6f6d04.js.map"
   },
   "entrypoints": [
     "static/css/main.92a990ca.css",
